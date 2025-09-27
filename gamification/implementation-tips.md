@@ -26,10 +26,13 @@ Gamification can sound complex, but at a hackathon you only need **lightweight, 
   ```sql
   Users(id, name, points, level, streak, badges)
   Badges(id, name, description, icon_url)
+  ```
 
-  Implementation tip: Write a function to calculate when points cross thresholds → auto-upgrade levels or assign badges.
+---
 
-  Balance tips:
-  - Don't overload users with notifications.
-  - Avoid systems that punish inactivity too harshly (loss aversion can backfire).
-  - Focus on positive reinforcement and fun, not stress.
+Implementation tip: Write a function to calculate when points cross thresholds → auto-upgrade levels or assign badges.
+
+Balance tips:
+- Don't overload users with notifications.
+- Avoid systems that punish inactivity too harshly (loss aversion can backfire).
+- Focus on positive reinforcement and fun, not stress.
