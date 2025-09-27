@@ -13,7 +13,7 @@ Want to dive deeper? These resources will help you explore gamification in desig
 
 ## 🎥 Videos
 - [Gamification Crash Course – Yu-kai Chou (YouTube)](https://www.youtube.com/watch?v=v5Qjuegtiyc)  
-- [Gamification in Education TEDx Talk](https://www.youtube.com/watch?v=FeF8WJ8cG8c)  
+- [Gamified E-Learning, Step-by-step Tutorial](https://www.youtube.com/watch?v=_cCMzRspk3s)  
 
 ---
 
