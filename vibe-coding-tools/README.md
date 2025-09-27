@@ -5,4 +5,4 @@ This folder provides helpful tools for both **participants** and **judges** duri
 - [Participant Tools](./participant-tools.md) → Resources to build full-stack web apps quickly.    
 - [Extra Resources](./resources.md) → Links to tutorials and guides for setup.
 
-👉 Make sure you check the [gamification-help](../gamification-help) and [web-design-tools](../web-design-tools) folders for more!
+👉 Make sure you check the [gamification](../gamification) and [web-design-tools](../web-design-tools) folders for more!
