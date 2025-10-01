@@ -22,4 +22,4 @@ Want to dive deeper? These resources will help you explore gamification in desig
 - **MidJourney / DALL·E** → Design badge/achievement art.  
 - **Notion AI** → Draft challenge descriptions quickly.
 
-👉 Check out the [web-design-tools](../web-design-tools) and [vibe-coding-tools](../vibe-coding-tools) folders for more!
+👉 Check out the [vibe-coding-tools](../vibe-coding-tools) folder for more!
