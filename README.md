@@ -2,7 +2,7 @@
 
 Welcome to the **official help repository** for our ACM Student Chapter Hackathon! 🚀  
 
-This repo is here to give you **extra support** while you build your full-stack projects. Inside, you’ll find guides, case studies, tools, and resources curated by the organizing team to help both **participants** and **judges**.
+This repo is here to give you **extra support** while you build your full-stack projects. Inside, you’ll find guides, case studies, tools, and resources curated by the organizing team.
 
 ---
 
